@@ -1,0 +1,585 @@
+[
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "rest_framework",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "request_started",
+        "importPath": "django.core.signals",
+        "description": "django.core.signals",
+        "isExtraImport": true,
+        "detail": "django.core.signals",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.migrations.0001_initial",
+        "description": "restfreamwork.auth_our.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Car',\n            fields=[\n                ('id', models.IntegerField(primary_key=True, serialize=False, unique=True)),\n                ('make', models.CharField(max_length=100)),",
+        "detail": "restfreamwork.auth_our.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.migrations.0002_alter_car_id",
+        "description": "restfreamwork.auth_our.migrations.0002_alter_car_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('auth_our', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='car',\n            name='id',\n            field=models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID'),\n        ),",
+        "detail": "restfreamwork.auth_our.migrations.0002_alter_car_id",
+        "documentation": {}
+    },
+    {
+        "label": "CarAdmin",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.admin",
+        "description": "restfreamwork.auth_our.admin",
+        "peekOfCode": "class CarAdmin(admin.ModelAdmin):\n    # Display these columns in the table list view\n    list_display = ('make','model','color','price','is_available')\n    # Add search capability on the name and description fields\n    search_fields = ('make', 'color')\n    # Enable filters based on certain fields\n    list_filter = ('price','color')\n# Register the model and custom admin class\nadmin.site.register(Car, CarAdmin)",
+        "detail": "restfreamwork.auth_our.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AuthOurConfig",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.apps",
+        "description": "restfreamwork.auth_our.apps",
+        "peekOfCode": "class AuthOurConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'auth_our'",
+        "detail": "restfreamwork.auth_our.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.models",
+        "description": "restfreamwork.auth_our.models",
+        "peekOfCode": "class Car(models.Model):\n    make = models.CharField(max_length=100)\n    model = models.CharField(max_length=100)\n    year = models.IntegerField()\n    color = models.CharField(max_length=50)\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    is_available = models.BooleanField(default=True)\n    def __str__(self):\n        return f\"{self.year} {self.make} {self.model}\"",
+        "detail": "restfreamwork.auth_our.models",
+        "documentation": {}
+    },
+    {
+        "label": "CarSer",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.serializers",
+        "description": "restfreamwork.auth_our.serializers",
+        "peekOfCode": "class CarSer(serializers.ModelSerializer):\n    class Meta:\n        model = Car\n        fields = ['id', 'make', 'model', 'year', 'color', 'price', 'is_available']",
+        "detail": "restfreamwork.auth_our.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "restfreamwork.auth_our.urls",
+        "description": "restfreamwork.auth_our.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',home),\n    path('add_car/',add_car),\n    path('get_cars/',get_cars),\n    path('cars/<int:pk>/', cars),\n    path('carsX',Car_view.as_view(),name='carsx'),\n    path('car/<int:pk>/',CarX.as_view(),name='cars3')\n]",
+        "detail": "restfreamwork.auth_our.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Car_view",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "class Car_view(APIView):\n    def get(self,request):\n        cars=Car.objects.all()\n        ser=CarSer(cars,many=True)\n        return Response({'Cars':ser.data},status=status.HTTP_200_OK)\n        ser=CarSer(cars,many=True)\n        return Response({'Cars':ser.data},status=status.HTTP_200_OK)\n    def post(self,request):\n        ser=CarSer(data=request.data)\n        if ser.is_valid():",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "CarX",
+        "kind": 6,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "class CarX(APIView):\n    def found(self, pk):\n        try:\n            car = Car.objects.get(id=pk)\n            return car\n        except Car.DoesNotExist:\n            return None\n    def get(self, request, pk):\n        car = self.found(pk)\n        if car is None:",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "def home(request):\n    cars= Car.objects.all()\n    print(cars)\n    data={\n        'cars':list(cars.values()),\n    }\n    return JsonResponse(data)\n@api_view(['Get'])\ndef get_cars(request):\n    cars= Car.objects.all()",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_cars",
+        "kind": 2,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "def get_cars(request):\n    cars= Car.objects.all()\n    serializer= CarSer(cars,many=True)\n    return Response(serializer.data)\n@api_view(['Post'])    \ndef add_car(request):\n    print(request.data)\n    car = Car.objects.create(\n        make=request.data.get('make'),\n        model=request.data.get('model'),",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_car",
+        "kind": 2,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "def add_car(request):\n    print(request.data)\n    car = Car.objects.create(\n        make=request.data.get('make'),\n        model=request.data.get('model'),\n        year=request.data.get('year'),\n        color=request.data.get('color'),\n        price=request.data.get('price'),\n        is_available=request.data.get('is_available', True)\n    )",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "cars",
+        "kind": 2,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "def cars(request,pk):\n    if(request.method == 'GET'):\n        car=Car.objects.get(id=pk)\n        ser=CarSer(car)\n        Response(ser.data)\n    if(request.method=='PUT'):\n        car=Car.objects.get(id=pk) \n        ser=CarSer(car,data= request.data)\n        if ser.is_valid():\n            ser.save()",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "cars",
+        "kind": 2,
+        "importPath": "restfreamwork.auth_our.views",
+        "description": "restfreamwork.auth_our.views",
+        "peekOfCode": "def cars(request, pk):\n    try:\n        car = Car.objects.get(id=pk)\n    except Car.DoesNotExist:\n        return Response({\"error\": \"Car not found\"}, status=status.HTTP_404_NOT_FOUND)\n    if request.method == 'GET':\n        ser = CarSer(car)\n        return Response(ser.data)\n    elif request.method == 'PUT':\n        ser = CarSer(car, data=request.data)",
+        "detail": "restfreamwork.auth_our.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.asgi",
+        "description": "restfreamwork.restfreamwork.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "restfreamwork.restfreamwork.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-10oj9tn2h^mz7##2hq%76@%5kla699ots30hg*zj-z#$su*!@s'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-10oj9tn2h^mz7##2hq%76@%5kla699ots30hg*zj-z#$su*!@s'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'auth_our'\n]",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'restfreamwork.urls'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "ROOT_URLCONF = 'restfreamwork.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'restfreamwork.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.settings",
+        "description": "restfreamwork.restfreamwork.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "restfreamwork.restfreamwork.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.urls",
+        "description": "restfreamwork.restfreamwork.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',include('auth_our.urls')),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "restfreamwork.restfreamwork.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "restfreamwork.restfreamwork.wsgi",
+        "description": "restfreamwork.restfreamwork.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "restfreamwork.restfreamwork.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "restfreamwork.manage",
+        "description": "restfreamwork.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'restfreamwork.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "restfreamwork.manage",
+        "documentation": {}
+    }
+]
